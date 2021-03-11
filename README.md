@@ -19,3 +19,4 @@ GitHub explorer is a project made in the first module of the Ignite, i'm coursin
 ## ⚙️ Built With
 
 - ReactJS
+- TypeScript
